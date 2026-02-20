@@ -9,7 +9,7 @@ A high-performance CLI application developed in C that simulates a real-world ci
 * **Robust Error Handling:** Validates seat availability and tier constraints to prevent overbooking.
 
 ## 🛠️ Tech Stack
-* **Language:** C (Standard C11)
+* **Language:** C
 * **Concepts:** Linked Lists, Structs, Pointers, Dynamic Memory Allocation (`malloc`), File I/O.
 
 ## 💻 How to Run

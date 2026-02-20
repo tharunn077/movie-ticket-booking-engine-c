@@ -1,4 +1,4 @@
-# Movie Ticket Booking Engine (C)
+# Movie Ticket Booking Engine (C) - SPYDAR CINEMAS
 
 A high-performance CLI application developed in C that simulates a real-world cinema reservation system. This project demonstrates core Computer Science fundamentals, including dynamic memory management and linked list data structures.
 
